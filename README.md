@@ -1,2 +1,1 @@
-﻿# Pair Extraordinaire Test
-Testing Pair Extraordinaire Achievement 
+Testing GitHub Pair Extraordinaire achievement.
