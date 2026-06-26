@@ -1,2 +1,1 @@
-﻿# Pair Extraordinaire Test
-This repository is for testing GitHub achievements.
+Testing GitHub Pair Extraordinaire achievement.
